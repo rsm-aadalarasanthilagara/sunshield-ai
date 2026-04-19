@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "name": "SunShield AI Recommendations",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23327666666668,
+          32.87823877777778
+        ]
+      },
+      "properties": {
+        "name": "Hopkins Parking Structure 8",
+        "site_id": "SITE_01",
+        "dual_benefit_score": 83.75,
+        "heat_risk_score": 98.4,
+        "solar_potential_score": 67.33,
+        "public_impact_score": 96.2,
+        "feasibility_score": 49.49,
+        "installation_cost": 37628,
+        "pedestrians_per_day": 481,
+        "estimated_kwh_per_year": 16872.0,
+        "temp_delta": 4.920248418417483,
+        "site_type": "parking_structure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23300333333331,
+          32.878432000000004
+        ]
+      },
+      "properties": {
+        "name": "Hopkins Parking Structure 10",
+        "site_id": "SITE_02",
+        "dual_benefit_score": 78.08,
+        "heat_risk_score": 93.3,
+        "solar_potential_score": 67.33,
+        "public_impact_score": 82.8,
+        "feasibility_score": 40.0,
+        "installation_cost": 40464,
+        "pedestrians_per_day": 414,
+        "estimated_kwh_per_year": 16872.0,
+        "temp_delta": 4.664846973973038,
+        "site_type": "parking_structure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23277571428572,
+          32.87830642857143
+        ]
+      },
+      "properties": {
+        "name": "Hopkins Parking Structure 9",
+        "site_id": "SITE_03",
+        "dual_benefit_score": 76.88,
+        "heat_risk_score": 90.85,
+        "solar_potential_score": 67.33,
+        "public_impact_score": 80.6,
+        "feasibility_score": 42.26,
+        "installation_cost": 39436,
+        "pedestrians_per_day": 403,
+        "estimated_kwh_per_year": 16872.0,
+        "temp_delta": 4.542418640639703,
+        "site_type": "parking_structure"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.23401741935484,
+          32.873336548387094
+        ]
+      },
+      "properties": {
+        "name": "Pepper Canyon 8",
+        "site_id": "SITE_09",
+        "dual_benefit_score": 59.7,
+        "heat_risk_score": 38.65,
+        "solar_potential_score": 67.33,
+        "public_impact_score": 78.8,
+        "feasibility_score": 82.77,
+        "installation_cost": 29307,
+        "pedestrians_per_day": 394,
+        "estimated_kwh_per_year": 16872.0,
+        "temp_delta": 1.9326214470913143,
+        "site_type": "walkway"
+      }
+    }
+  ]
+}
