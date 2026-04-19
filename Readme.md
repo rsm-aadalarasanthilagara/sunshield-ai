@@ -60,6 +60,14 @@ Use the interactive slider to define your planning budget. The optimizer instant
 
 ![Budget Slider](1-Budget%20slider.png)
 
+![ZenPower Industry Validation](zenpower_int.png)
+
+- Decision tool for solar customer acquisition
+- Data-driven ROI calculator
+- Helps sell to universities
+  
+Integrated Sullivan Solar dataset with 6,192 real installation records (2012-2023). Analysis shows 4,996 California installations (80.7%) with 1,794 specifically in San Diego - providing strong local market validation for UCSD recommendations. Our live validation display proves our synthetic cost model ($27k-$45k) aligns with actual Sullivan Solar installation patterns. This grounds our recommendations in real-world pricing, making our tool credible for ZenPower's customer acquisition with educational institutions. Implementation includes interactive dashboard section showing real-time statistics from ZenPower dataset.
+
 ### 2. View Results and Export
 
 Summary metrics update in real time. Export all sites or only the selected ones as CSV or GeoJSON for use in ArcGIS, QGIS, or Google Earth.
