@@ -172,6 +172,9 @@ Time management in hackathons means ruthlessly cutting features that don't block
 ## 🎯 PRIZE ALIGNMENT
 
 **ZenPower ($125):**
+
+![ZenPower Industry Validation](zenpower_int.png)
+
 - Decision tool for solar customer acquisition
 - Data-driven ROI calculator
 - Helps sell to universities
